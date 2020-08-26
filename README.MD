@@ -1,9 +1,9 @@
-#My App
+The Classic Snake game
 
-> This is my doc for my app
+> This is my first JavaScript-only game
 
 ## Usage
 
 ```
-npm install
+Use keyboard to play!
 ```
